@@ -1,0 +1,46 @@
+item.over_ingot.name= Lingot d'over
+item.over_pickaxe.name= Pioche en over
+item.over_sword.name= Épée en over
+item.over_axe.name= Hache en over
+item.over_hoe.name= Houe en over
+item.over_sholvel.name= Pelle en over
+item.helmet_over.name= Casque en over
+item.chestplate_over.name= Plastron en Over
+item.legging_over.name= Pantalon en over
+item.boots_over.name= Bottes en over
+item.sonic_screwdriver.name= Tournevis sonic
+
+#Minecrai & Block
+tile.over_ore.name=Minerai d'over
+tile.over_block.name=Block d'over
+tile.eastereggone.name=Easter Egg 1
+tile.sea_lantern.name=Lanterne Aquatique
+tile.prismarine_a.name=Prismarine A
+tile.prismarine_b.name=Prismarine B
+tile.prismarine_c.name=Prismarine C
+tile.purpur_pillar.name=Pillier en Purpur
+tile.purpur_block.name=Block de Purpur
+tile.concrete_brown.name=Béton Marron
+tile.concrete_red.name=Béton Rouge 
+tile.concrete_orange.name=Béton Orange
+tile.concrete_yellow.name=Béton Jaune
+tile.concrete_gren.name=Béton Vert
+tile.concrete_dark_green.name=Béton Vert Sombre 
+tile.concrete_cyan.name=Béton Cyan
+tile.concrete_blue.name=Béton Bleu 
+tile.concrete_dark_blue.name=Béton Bleu Foncé
+tile.concrete_purple.name=Béton Violet
+tile.concrete_pink.name=Béton Rose
+tile.concrete_magenta.name=Béton Magenta
+tile.concrete_white.name=Béton Blanc
+tile.concrete_light_grey.name=Béton Argent
+tile.concrete_grey.name=Béton Gris
+tile.concrete_dark.name=Béton Noir
+
+#Overlay
+tile.warning.name=Attention ce mod est en ALPHA, il manque des ressource craft item block, etc
+
+#CreativeTab
+itemGroup.Over-Idle - Items & Blocks=Over-Idle - Items & Blocks
+itemGroup.Over-Idle - Items & Blocks Cacher=Over-Idle - Items & Blocks Cacher
+itemGroup.Over-Idle - Items & Blocks 1.12.2=Over-Idle - Items & Blocks 1.12.2

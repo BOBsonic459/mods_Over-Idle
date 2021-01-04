@@ -1,0 +1,46 @@
+item.over_ingot.name= Over Ingot
+item.over_pickaxe.name= Over Pickaxe
+item.over_sword.name= Over Sword
+item.over_axe.name= Over Axe
+item.over_hoe.name= Over Hoe
+item.over_sholvel.name= Over Sholvel
+item.helmet_over.name= Over Helmet
+item.chestplate_over.name= Over Chestplate
+item.legging_over.name= Over Legging
+item.boots_over.name= Over Boots
+item.sonic_screwdriver.name= Sonic screwdriver
+
+#Minecrai & Block
+tile.over_ore.name=Over Ore
+tile.over_block.name=Over Block
+tile.eastereggone.name=Easter Egg 1
+tile.sea_lantern.name=Sea Lantern
+tile.prismarine_a.name=Prismarine A
+tile.prismarine_b.name=Prismarine B
+tile.prismarine_c.name=Prismarine C
+tile.pupur_pillar.name=Pupur Pillar
+tile.pupur_block.name=Pupur Block
+tile.concrete_brown.name=Brown Concrete 
+tile.concrete_red.name=Red Concrete 
+tile.concrete_orange.name=Orange Concrete 
+tile.concrete_yellow.name=Yellow Concrete 
+tile.concrete_gren.name=Green Concrete 
+tile.concrete_dark_green.name=Dark Green Concrete 
+tile.concrete_cyan.name=Cyan Concrete 
+tile.concrete_blue.name=Blue Concrete 
+tile.concrete_dark_blue.name=Dark Blue Concrete
+tile.concrete_purple.name=Purple Concrete
+tile.concrete_pink.name=Pink Concrete
+tile.concrete_magenta.name=Magenta Concrete
+tile.concrete_white.name=White Concrete
+tile.concrete_light_grey.name=Silver Concrete
+tile.concrete_grey.name=Grey Concrete
+tile.concrete_dark.name=Dark Concrete
+
+#Overlay
+tile.warning.text=Wrning This mods is in ALPHA, craft item block resource is missing, excite 
+
+#CreativeTab
+itemGroup.Over-Idle - Items & Blocks=Over-Idle - Items & Blocks
+itemGroup.Over-Idle - Items & Blocks Cacher=Over-Idle - Items & Blocks Cacher
+itemGroup.Over-Idle - Items & Blocks 1.12.2=Over-Idle - Items & Blocks 1.12.2

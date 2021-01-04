@@ -1,0 +1,16 @@
+[
+{
+  "modid": "overidle",
+  "name": "Over Idle",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["BOBsoic576"],
+  "credits": "Texture : Jonono, BOBsonic576, Mojang/Minecraft",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
